@@ -7,3 +7,5 @@ while (i <= 10) {
     i++;
     }
 console.log("Addition of 1 to 10 is " + totel);
+
+// (n*(n+1))/2 get the sum of first n natural numbers
