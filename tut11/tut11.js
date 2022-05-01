@@ -1,4 +1,5 @@
 console.log("Switch case");
+// type case String to Integer.
 let day = +prompt("Enter day number");
 switch (day) {
     case 0:
