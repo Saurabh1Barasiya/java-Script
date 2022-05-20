@@ -1,4 +1,4 @@
-console.log("Object destuctring ✔✔✔");
+console.log("Object Destructuring ✔✔✔");
 
 const person = {
     name: "John",
