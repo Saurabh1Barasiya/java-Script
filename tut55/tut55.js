@@ -50,3 +50,5 @@ console.log(user2.is18());
 console.log(user2.sing());
 
 console.log(user1);
+
+// concept of class.
