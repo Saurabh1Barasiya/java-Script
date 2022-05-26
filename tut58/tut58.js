@@ -28,3 +28,15 @@ function fun1(x){
 const ans1 = fun1(1);
 const ans2 = ans1(2);
 console.log(ans2);
+
+
+// 👀👀👀👀👀👀👀👀👀👀👀
+
+function myFunction(power){
+    return function(number){
+        return number**power;
+    }
+}
+const ans3 = myFunction(2);
+const ans4 = ans3(3);
+console.log(ans4);
