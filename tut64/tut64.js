@@ -23,3 +23,18 @@ for(let button of allbuttons){
         console.log(this.textContent);
     })
 }
+
+
+console.log("===========================================================");
+// 👀👀👀👀👀👀👀👀👀👀👀👀
+// if i want to use arrow function and get the original value matlab button.
+
+const bookButton = document.querySelectorAll(".book button");
+console.log(bookButton);
+bookButton.forEach((button)=>{
+    button.addEventListener("click",(e)=>{
+        // console.log(button);
+        console.log(e.target);
+        console.log(e.currentTarget);
+    })
+})
