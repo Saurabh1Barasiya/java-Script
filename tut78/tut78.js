@@ -4,7 +4,7 @@
 
 // HTTP request
 
-// is a set of "web development techniques" 
+// AJAX is a set of "web development techniques" 
 // using many web technologies on the "client-side "
 // to create asynchronous web applications. 
 
@@ -22,3 +22,5 @@
 // 1.) xmlHTTPRequest (old way of doing)
 // 2.) fetch API (new way of doing)
 // 3.) axios (this is third party library)
+
+// browser by default GET request send karta h.
